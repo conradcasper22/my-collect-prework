@@ -7,6 +7,7 @@ def my_collect(array)
       new_array << array[i]
     i += 1
   end
+  new_array
 end
 
 
